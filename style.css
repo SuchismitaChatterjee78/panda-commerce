@@ -1,11 +1,9 @@
 .container{
     margin-bottom:60px ;
 }
-.navbar{
-    width: 100%;
-}
 .bg-light{
     background-color: #fceae8;
+    width: 100%;
 }
 .orange-bg{
     background-image: linear-gradient(to bottom, #e0a6e7 0%, #fceae8 100%);
@@ -48,10 +46,10 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
-#contact-us{
+#contact{
     height:300px;
 }
-#contact-us h6{
+#contact h6{
     color: gray;
 }
 footer{
