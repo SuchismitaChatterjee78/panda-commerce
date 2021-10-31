@@ -2,9 +2,10 @@
     margin-bottom:60px ;
 }
 .navbar{
-    background-color: #fceae8;
-    border-radius: 10px;
     width: 100%;
+}
+.bg-light{
+    background-color: #fceae8;
 }
 .orange-bg{
     background-image: linear-gradient(to bottom, #e0a6e7 0%, #fceae8 100%);
