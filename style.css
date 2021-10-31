@@ -1,10 +1,10 @@
 .container{
     margin-bottom:60px ;
 }
-.bg-light{
-    background-color: #fceae8;
-    border-radius: 10px;
-}
+
+
+
+
 .orange-bg{
     background-image: linear-gradient(to bottom, #e0a6e7 0%, #fceae8 100%);
     border-radius: 10px;
@@ -31,7 +31,7 @@
     background-image: linear-gradient(to bottom, #FF4500 0%, #FFA500 100%);
 }
 .cat2{
-    background-image: linear-gradient(to bottom, #fc5a8d 0%, #ffa6c9 100%);
+    background-image: linear-gradient(to ttom, #fc5a8d 0%, #ffa6c9 100%);
 }
 .cat3{
     background-image: linear-gradient(to bottom, #090979 0%, #00d4ff 100%) ;
